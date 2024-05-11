@@ -1,4 +1,4 @@
-5.6
+5.11
 <section align="center">
   <a href="https://github.com/iDerekLi/juejin-helper" target="_blank">
     <img src="./resources/logo.svg" alt="稀土掘金" width="260" />
