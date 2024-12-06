@@ -1,4 +1,4 @@
-10.25 hello world
+2024年12月6日 hello world
 <section align="center">
   <a href="https://github.com/iDerekLi/juejin-helper" target="_blank">
     <img src="./resources/logo.svg" alt="稀土掘金" width="260" />
